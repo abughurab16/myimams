@@ -1,0 +1,53 @@
+:root {
+  --background: #d6eaff;
+}
+body {
+  background-color: var(--background);
+}
+
+/* Typography */
+/* #84c1ff • #add6ff • #d6eaff • #eaf4ff • #f8fbff */
+.title {
+  text-align: center;
+}
+
+.subtitle {
+  text-align: center;
+}
+
+/*  */
+
+/* Layouts*/
+.container {
+    display: flex;
+    flex-direction: column;
+}
+
+.container img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.hanafi {
+    text-align: center;
+    background-color: rgba(197, 197, 35, 0.89);
+}
+
+.maliki {
+    text-align: center;
+    background-color: rgba(168, 55, 55, 0.986);
+}
+
+.shafii {
+    text-align: center;
+    background-color: rgba(173, 41, 173, 0.781);
+}
+
+.hanbali {
+    text-align: center;
+    background-color: rgba(62, 161, 62, 0.836);
+}
+/*  */
