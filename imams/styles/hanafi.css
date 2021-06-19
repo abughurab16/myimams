@@ -1,7 +1,10 @@
+
+
 body {
     background-color: rgba(236, 236, 95, 0.979);
-    font-family: 'Roboto', sans-serif;
+    font-family: sans-serif;
 }
+
 /* Layout */
 
 
@@ -9,7 +12,7 @@ body {
 /*  */
 
 /* Typography */
-@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
 .list {
     font-size: 1.5em;
     font-weight: bold;
@@ -22,11 +25,6 @@ body {
 /*  */
 
 /* Media queries */
-@media (min-width: 375px) {
-    .list {
-        font-size: 1em;
-    }
-}
 
 
 /*  */
