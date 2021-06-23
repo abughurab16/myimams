@@ -1,18 +1,6 @@
 body {
-    background-color: rgba(230, 100, 230, 0.705);
-    color: black;
+    background-color: rgba(152, 235, 152, 0.527);
 }
-
-/* Typography */
-.list {
-    font-size: 1.05em;
-    font-weight: bold;
-}
-
-.list li {
-    margin-bottom: 30px;
-}
-/*  */
 
 /* Layout */
 footer a {
@@ -33,4 +21,15 @@ footer a:hover {
     font-weight: 800;
 }
 
+/*  */
+
+/* Typography */
+.list {
+    font-size: 1.05em;
+    font-weight: bold;
+}
+
+.list li {
+    margin-bottom: 30px;
+}
 /*  */
