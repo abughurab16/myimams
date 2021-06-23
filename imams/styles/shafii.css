@@ -1,0 +1,15 @@
+body {
+    background-color: rgba(230, 100, 230, 0.705);
+    color: black;
+}
+
+/* Typography */
+.list {
+    font-size: 1.05em;
+    font-weight: bold;
+}
+
+.list li {
+    margin-bottom: 30px;
+}
+/*  */
