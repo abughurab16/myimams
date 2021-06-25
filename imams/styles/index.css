@@ -42,20 +42,24 @@ body {
 .hanafi {
     text-align: center;
     background-color: rgba(236, 236, 95, 0.979);
+    margin-bottom: 20px;
 }
 
 .maliki {
     text-align: center;
     background-color: rgb(219, 103, 103);
+    margin-bottom: 20px;
 }
 
 .shafii {
     text-align: center;
     background-color: rgba(173, 41, 173, 0.781);
+    margin-bottom: 20px;
 }
 
 .hanbali {
     text-align: center;
     background-color: rgba(62, 161, 62, 0.836);
+    margin-bottom: 20px;
 }
 /*  */
