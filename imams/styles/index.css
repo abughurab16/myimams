@@ -66,3 +66,10 @@ body {
     border-radius: 20px;
 }
 /*  */
+
+/* extras */
+
+#dev {
+  text-align: center;
+  font-weight: 800;
+}
